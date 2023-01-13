@@ -5,6 +5,15 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Nama : Fauzan W. Yusuf
+
+NIM : 3.34.21.1.11
+
+Kelas : IK - 2B
+
+Absen : 10
+
+![image](https://user-images.githubusercontent.com/121244501/212310611-f9afc8a8-4376-49ec-a066-3b61743defa8.png)
 
 A few resources to get you started if this is your first Flutter project:
 
